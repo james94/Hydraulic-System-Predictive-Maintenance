@@ -1,3 +1,11 @@
+# Python Scoring Pipeline Large files, but dependencies too
+datatable-0.11.0a242-cp36-cp36m-manylinux2010_x86_64.whl
+h2o4gpu-0.3.2-cp36-cp36m-linux_x86_64.whl
+h2oai_experiment_summary_0abac7c4-8993-11ea-ae54-0242ac110002.zip
+h2oaicore-1.8.4.1-cp36-cp36m-linux_x86_64.whl
+scoring.thrift
+scoring_h2oai_experiment_0abac7c4_8993_11ea_ae54_0242ac110002-1.0.0-py3-none-any.whl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
